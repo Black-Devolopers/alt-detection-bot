@@ -1,0 +1,18 @@
+{
+    "token": "PREFIX_HERE",  // Replace Your Prefix Here
+    "debug": true,
+
+    "embed": {
+        "color": "#00000",
+        "footer": "© MSV" 
+    },
+
+    "settings": {
+        "days": 7, // Set here now many days account can add to your server
+        "channel": "844530884522803222", // set the mod log
+
+        "kick_on_join": true, // if u no need to kick replce true with false
+        "kick_message": "You have been kicked because your account creation does not meet our server requirements"
+    }
+
+}
